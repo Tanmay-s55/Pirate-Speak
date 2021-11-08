@@ -1,4 +1,4 @@
-# Pirate-Speak
+# Pirate-Speak 🏴‍☠️
 
 ## Are you fascinated by how pirates speak?
 Well then simply input the text you want to be converted in the textarea and it will be converted to pirate language.
